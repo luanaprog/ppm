@@ -1,8 +1,6 @@
 body{
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: greenyellow;
 }
 
-p{
-    color: red;
-    font-family: 'Courier New', Courier, monospace;
-}
